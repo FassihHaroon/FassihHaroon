@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @FassihHaroon
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @FassihHaroon, CS Senior @ FAST. Actively searching for jobs and projects related to AI/ML, Web.
 
 <!---
 FassihHaroon/FassihHaroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
