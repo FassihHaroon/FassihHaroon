@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FassihHaroon, CS Senior @ FAST. Actively searching for jobs and projects related to AI/ML, Web.
+-CS Senior @ FAST. AI/ML, Software Developer, App/Web.
 
 <!---
 FassihHaroon/FassihHaroon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
