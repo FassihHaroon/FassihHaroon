@@ -1,16 +1,16 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Fassih%20Haroon&fontSize=80&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Voice%20AI%20%C2%B7%20Agents%20%C2%B7%20Full-Stack%20AI%20%C2%B7%20Lahore&descAlignY=55&descAlign=50" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=560&lines=Lead+AI+Engineer+%40+Cosecant;Voice+AI+%26+Conversational+Agents;RAG+Pipelines+%26+Tool-Calling+Agents;LangGraph+%2B+MCP+Agentic+Systems;Full-Stack%3A+FastAPI+%2B+React" alt="Lead AI Engineer, Voice AI, RAG and agents, full-stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22D3EE&center=true&vCenter=true&random=false&width=560&lines=AI+Engineer;Voice+AI+%26+Conversational+Agents;RAG+Pipelines+%26+Tool-Calling+Agents;LangGraph+%2B+MCP+Agentic+Systems;Full-Stack%3A+FastAPI+%2B+React" alt="AI Engineer, Voice AI, RAG and agents, full-stack" />
 </p>
 
 ## 🎯 About Me
 
 **Muhammad Fassih Haroon** is an AI engineer in Lahore, Pakistan. I build production AI systems end to end, from requirements and system design through deployment:
 
-- 🎙️ **Voice & conversational AI** — architected **Echo**, a multi-tenant voice AI ordering and POS platform running across phone and WhatsApp at **Cosecant**, where I'm Lead AI Engineer
+- 🎙️ **Voice & conversational AI** — real-time voice agents across phone and WhatsApp, multi-tenant architecture
 - 🤖 **Agents & LLM apps** — LangGraph orchestration, MCP tools, tool-calling assistants, schema-validated output
-- 📚 **RAG & OCR** — retrieval + SQL routing chatbots, and an OCR ensemble that took degraded-record extraction from **63% → 93%** at NETSOL
+- 📚 **RAG & OCR** — retrieval + SQL routing chatbots, and multi-engine OCR pipelines for degraded documents
 - 🧱 **Full-stack** — FastAPI / Flask backends, React + TypeScript frontends, PostgreSQL, Docker
 
 🎓 B.S. Computer Science, FAST-NUCES Lahore — concentration in AI Engineering & Software Development
@@ -61,7 +61,6 @@
 | --- | --- | --- | --- |
 | **🎙️ Echo** | Multi-tenant voice AI ordering & POS platform live across independent restaurants. Real-time Gemini voice AI on phone + WhatsApp, **94% intent accuracy on noisy audio**, **sub-400ms voice-to-kitchen-ticket latency**, and a no-code config layer so owners self-onboard. | Python · Flask · Gemini · Multi-tenant | [Website](https://github.com/FassihHaroon/Echo-Website) |
 | **🛠️ AI SRE** | Autonomous production incident investigator. Stateful LangGraph workflow with MCP tools that correlates logs, metrics, deploys, DB health and runbooks into root-cause analysis and human-approved remediation. | LangGraph · MCP · FastAPI · pgvector · Redis · React | — |
-| **✈️ Executive Travel & Team Planner** | Full-stack planning platform replacing a browser-only prototype. RBAC with server-side scoping, optimistic concurrency, real-time sync via SSE, and six human-in-the-loop Gemini features (trip drafting, action-item extraction, tool-calling calendar assistant). | React · TS · FastAPI · PostgreSQL · Docker | — |
 | **📄 RAG + OCR Chatbot** | OCR pipeline for degraded records (Tesseract + PaddleOCR + Textract ensemble, **63% → 93%** accuracy) and a RAG chatbot combining ChromaDB retrieval, SQL access and an LLM query router. | FastAPI · ChromaDB · OCR | [Repo](https://github.com/FassihHaroon/RAG-OCR-Scrapped-chatbot) |
 | **🤟 SignLearn (FYP)** | Real-time bidirectional Urdu-English sign language platform for deaf and speech-delayed children. Four pipelines (Sign↔Text, Speech→Sign, Speech→Text) with a 3D WebGL avatar. | MediaPipe · Transformers · Flask · React | — |
 | **🎓 Tutorly** | AI tutoring platform automating tutor onboarding, assessment and scheduling. | React · Node.js · Supabase | — |
@@ -89,7 +88,7 @@
 
 ---
 
-## ✨ Random Dev Quote
+## ✨ Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
